@@ -6,7 +6,7 @@ import pandas as pd
 import streamlit as st
 from pandas.api.types import is_bool_dtype, is_datetime64_any_dtype, is_numeric_dtype
 
-GITHUB_URL = "https://github.com/LudwigStumpp/llm-leaderboard"
+GITHUB_URL = "https://github.com/msamwelmollel/Swahili_LLM_Leaderboard"
 NON_BENCHMARK_COLS = ["Open?", "Publisher"]
 
 

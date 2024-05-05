@@ -13,5 +13,5 @@ https://huggingface.co/spaces/ludwigstumpp/llm-leaderboard
 | Model Name | Publisher| Open? | Basemodel |Average| ARC| HellaSwag| MMLU| TruthfulQA|Winogrande|GSM8K|
 | ----------------------------------------------------------------------------------------------------------- | ------------------- | ----- | ----- |------------------------------------------------ | ------------------------------------------------------------------------- | ------------------------------------------------------------------ | --------------------------------------------------------------- | ------------------------------------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------------- |
 | [Mollel/Swahili Gemma](https://huggingface.co/Mollel/Swahili_Gemma)| Mollel| Yes|Gemma|61.32|58.96|76.4 |61.02| 52.1|75.61|43.82|
-| [mwitiderrick/SwahiliInstruct-v0.1](https://huggingface.co/mwitiderrick/SwahiliInstruct-v0.1)| Derrick| Yes|Mistral|61.32|58.96|76.4 |61.02| 52.1|75.61|43.82|
+| [mwitiderrick/SwahiliInstruct-v0.1](https://huggingface.co/mwitiderrick/SwahiliInstruct-v0.1)| Derrick| Yes|Mistral|58.92|57.59|80.92 |57| 58.08|74.66|25.25|
 

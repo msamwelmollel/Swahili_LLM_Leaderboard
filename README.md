@@ -1,7 +1,7 @@
 # 🏆 Swahili LLM-Leaderboard
 
-A joint community effort to create Swahili  central leaderboard for LLMs. These model are currently evaluate on Open LLM Leaderboard Contributions and corrections welcome! <br>
-We refer to a model being "open" if it can be locally deployed and used for commercial purposes.
+A joint community effort to create a Swahili central leaderboard for LLMs. These models are currently evaluated on the Open LLM Leaderboard. Contributions and corrections are welcome! <br>
+We refer to a model being "open" if it can be locally deployed and used commercially.
 
 ## Interactive Dashboard
 

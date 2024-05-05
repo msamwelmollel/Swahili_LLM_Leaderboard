@@ -5,8 +5,6 @@ We refer to a model being "open" if it can be locally deployed and used for comm
 
 ## Interactive Dashboard
 
-https://llm-leaderboard.streamlit.app/ <br>
-https://huggingface.co/spaces/ludwigstumpp/llm-leaderboard
 
 ## Leaderboard
 

@@ -4,6 +4,7 @@ A joint community effort to create a Swahili central leaderboard for LLMs. These
 We refer to a model being "open" if it can be locally deployed and used commercially.
 
 ## Interactive Dashboard
+https://swahili-llm-leaderboard.streamlit.app/ <br>
 
 
 ## Leaderboard

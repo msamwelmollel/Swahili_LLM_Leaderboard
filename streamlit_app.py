@@ -292,6 +292,17 @@ def setup_Sponsorship():
         "Any support please reach me: msamwelmollel@gmail.com"
     )
 
+def setup_Contribution():
+    st.markdown("## Sponsorship")
+    st.markdown(
+        "The benchmark is English-based, and we need support translating it into Swahili." 
+        "We welcome sponsorships to help advance this endeavor."
+        "Your sponsorship would facilitate this essential translation effort, bridging language barriers and making the benchmark "
+        "accessible to a broader audience. We're grateful for the dedication shown by our collaborators and aim to extend this impact "
+        "further with the support of sponsors committed to advancing language technologies."
+        "Any support please reach me: msamwelmollel@gmail.com"
+    )
+
     
 
 def setup_disclaimer():

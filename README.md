@@ -17,3 +17,6 @@ https://huggingface.co/spaces/Mollel/swahili-llm-leaderboard
 | [mwitiderrick/SwahiliInstruct-v0.1](https://huggingface.co/mwitiderrick/SwahiliInstruct-v0.1)| Derrick| Yes|Mistral|58.92|57.59|80.92 |57| 58.08|74.66|25.25|
 | [mwitiderrick/SwahiliInstruct-v0.2](https://huggingface.co/mwitiderrick/SwahiliInstruct-v0.2)| Derrick| Yes|Mistral|54.25|55.2|78.22|50.3|57.08|73.24|11.45|
 
+## Sponsorship
+
+The benchmark is English-based, and we need support translating it into Swahili. We welcome sponsorships to help advance this endeavor. Your sponsorship would facilitate this essential translation effort, bridging language barriers and making the benchmark accessible to a broader audience. We're grateful for the dedication shown by our collaborators and aim to extend this impact further with the support of sponsors committed to advancing language technologies."

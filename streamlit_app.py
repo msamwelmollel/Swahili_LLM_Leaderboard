@@ -336,6 +336,7 @@ def main():
     # setup_sources()
     # setup_disclaimer()
     # setup_footer()
+    setup_Contribution()
     setup_Sponsorship()
 
 

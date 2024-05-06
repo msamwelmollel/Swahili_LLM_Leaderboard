@@ -304,10 +304,10 @@ def main():
         readme = f.read()
 
     setup_leaderboard(readme)
-    setup_benchmarks(readme)
-    setup_sources()
-    setup_disclaimer()
-    setup_footer()
+    # setup_benchmarks(readme)
+    # setup_sources()
+    # setup_disclaimer()
+    # setup_footer()
 
 
 if __name__ == "__main__":

@@ -293,15 +293,18 @@ def setup_Sponsorship():
     )
 
 def setup_Contribution():
-    st.markdown("## Sponsorship")
-    st.markdown(
-        "The benchmark is English-based, and we need support translating it into Swahili." 
-        "We welcome sponsorships to help advance this endeavor."
-        "Your sponsorship would facilitate this essential translation effort, bridging language barriers and making the benchmark "
-        "accessible to a broader audience. We're grateful for the dedication shown by our collaborators and aim to extend this impact "
-        "further with the support of sponsors committed to advancing language technologies."
-        "Any support please reach me: msamwelmollel@gmail.com"
-    )
+    st.markdown("## How to Contribute")
+
+    markdown_content = """
+    - Model name (don't forget the links):
+      - Filling in missing entries
+      - Adding a new model as a new row to the leaderboard. Please keep the descending order.
+      - Adding a new benchmark as a new column in the leaderboard and adding the benchmark to the benchmarks table. Please keep the descending order.
+    - Code work:
+      - Improving the existing code
+      - Requesting and implementing new features
+    """
+    st.markdown(markdown_content)
 
     
 

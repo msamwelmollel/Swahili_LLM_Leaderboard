@@ -278,7 +278,15 @@ def setup_sources():
     - [HF Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
     """
     )
+def setup_Sponsorship():
+    st.markdown("## Sponsorship")
+    st.markdown(
+        "The results of this leaderboard are collected from the individual papers and published results of the model "
+        "authors. If you are interested in the sources of each individual reported model value, please visit the "
+        f"[llm-leaderboard]({GITHUB_URL}) repository."
+    )
 
+    
 
 def setup_disclaimer():
     st.markdown("## Disclaimer")
@@ -308,6 +316,7 @@ def main():
     # setup_sources()
     # setup_disclaimer()
     # setup_footer()
+    setup_Sponsorship()
 
 
 if __name__ == "__main__":

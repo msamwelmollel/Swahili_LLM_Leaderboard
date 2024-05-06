@@ -289,6 +289,7 @@ def setup_Sponsorship():
         "Your sponsorship would facilitate this essential translation effort, bridging language barriers and making the benchmark "
         "accessible to a broader audience. We're grateful for the dedication shown by our collaborators and aim to extend this impact "
         "further with the support of sponsors committed to advancing language technologies."
+        "Any support please reach me: msamwelmollel@gmail.com"
     )
 
     

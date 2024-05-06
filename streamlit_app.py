@@ -190,7 +190,7 @@ def filter_dataframe_by_column_values(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def setup_basic():
-    title = "🏆 LLM-Leaderboard"
+    title = "🏆 Swahili-LLM-Leaderboard"
 
     st.set_page_config(
         page_title=title,
@@ -200,9 +200,9 @@ def setup_basic():
     st.title(title)
 
     st.markdown(
-        "A joint community effort to create one central leaderboard for LLMs."
-        f" Visit [llm-leaderboard]({GITHUB_URL}) to contribute.  \n"
-        'We refer to a model being "open" if it can be locally deployed and used for commercial purposes.'
+        "A joint community effort to create a Swahili central leaderboard for LLMs."
+        f" Visit [swahili-llm-leaderboard]({GITHUB_URL}) to contribute.  \n"
+        # 'We refer to a model being "open" if it can be locally deployed and used for commercial purposes.'
     )
 
 

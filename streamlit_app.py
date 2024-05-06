@@ -281,9 +281,14 @@ def setup_sources():
 def setup_Sponsorship():
     st.markdown("## Sponsorship")
     st.markdown(
-        "The results of this leaderboard are collected from the individual papers and published results of the model "
-        "authors. If you are interested in the sources of each individual reported model value, please visit the "
-        f"[llm-leaderboard]({GITHUB_URL}) repository."
+        # "The results of this leaderboard are collected from the individual papers and published results of the model "
+        # "authors. If you are interested in the sources of each individual reported model value, please visit the "
+        # f"[llm-leaderboard]({GITHUB_URL}) repository."
+        "The benchmark is English-based, and we need support translating it into Swahili." 
+        "We welcome sponsorships to help advance this endeavor."
+        "Your sponsorship would facilitate this essential translation effort, bridging language barriers and making the benchmark "
+        "accessible to a broader audience. We're grateful for the dedication shown by our collaborators and aim to extend this impact "
+        "further with the support of sponsors committed to advancing language technologies."
     )
 
     

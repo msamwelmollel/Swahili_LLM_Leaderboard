@@ -6,6 +6,7 @@ We refer to a model being "open" if it can be locally deployed and used commerci
 ## Interactive Dashboard
 
 https://swahili-llm-leaderboard.streamlit.app/ <be>
+https://huggingface.co/spaces/Mollel/swahili-llm-leaderboard
 
 ## Leaderboard
 
